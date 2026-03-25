@@ -2,7 +2,7 @@
 
 ## 🧩 Description
 
-Proyecto is a web application built with vanilla HTML, CSS, and JavaScript. It demonstrates frontend fundamentals and includes interactive elements, layout structuring, and user interface behaviors that showcase skills in core web technologies.
+Is a web application built with vanilla HTML, CSS, and JavaScript. It demonstrates frontend fundamentals and includes interactive elements, layout structuring, and user interface behaviors that showcase skills in core web technologies.
 
 The project focuses on building a cohesive interface where users can interact with different sections and UI components.
 
